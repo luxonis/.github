@@ -26,5 +26,7 @@ Where:
 - [TOOL1] [TOOL2] are optional specialized analysis tools used (e.g., coccinelle, sparse, smatch, clang-tidy)
 -->
 Assisted-by: AGENT_NAME:MODEL_VERSION [TOOL1] [TOOL2]
+
 Submitted code was reviewed by a human: YES/NO
+
 The author is taking the responsibility for the contribution: YES/NO
